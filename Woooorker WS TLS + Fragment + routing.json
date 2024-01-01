@@ -63,12 +63,12 @@
         "vnext": [
           {
             "address": "www.speedtest.net",
-            "port": XXXX,
+            "port": 443,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "XXXX",
+                "id": "20a1fca9-c996-4ffb-adf3-c3652710e892",
                 "level": 8,
                 "security": "auto"
               }
@@ -90,16 +90,16 @@
           ],
           "fingerprint": "chrome",
           "publicKey": "",
-          "serverName": "XXXX",
+          "serverName": "vfonlineircomtvcom.tarafe3vm.ir",
           "shortId": "",
           "show": false,
           "spiderX": ""
         },
         "wsSettings": {
           "headers": {
-            "Host": "XXXX"
+            "Host": "vfonlineircomtvcom.tarafe3vm.ir"
           },
-          "path": "/XXXX?ed=2048"
+          "path": "/?ed=2048"
         }
       },
       "tag": "proxy"
